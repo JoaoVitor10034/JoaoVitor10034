@@ -53,7 +53,7 @@
 Gostou do meu trabalho ou quer tirar um projeto do papel com velocidade e alta performance? Entre em contato:
 
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white)](https://wa.me/555192884473?text=Ol%C3%A1%20Jo%C3%A3o%20Vitor,%20vi%20seu%20GitHub!)
-* ✉️ **E-mail:** [João Vitor](mailto:machadojoaovitor.2010@gmail.com)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:machadojoaovitor.2010@gmail.com)
 
 ---
 
