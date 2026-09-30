@@ -52,9 +52,9 @@
 
 Gostou do meu trabalho ou quer tirar um projeto do papel com velocidade e alta performance? Entre em contato:
 
-* 💬 **WhatsApp:** [Enviar Mensagem](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwa.me%2F55DDDSEUNUMERO)
-* 💼 **LinkedIn:** [Meu Perfil no LinkedIn](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Flinkedin.com%2Fin%2FSEU-LINKEDIN)
-* ✉️ **E-mail:** [seu.email@exemplo.com](https://www.google.com/url?sa=E&amp;q=mailto%3Aseu.email%40exemplo.com)
+* 💬 **WhatsApp:** [Enviar Mensagem](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwa.me%2F55DDDSEUNUMERO)]
+**📸 Link do Instagram:** []((https://instagram.com/4741\_vitor))]
+* ✉️ **E-mail:** [seu.email@exemplo.com](mailto:machadojoaovitor.2010@gmail.com)
 
 ---
 
