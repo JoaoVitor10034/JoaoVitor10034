@@ -44,14 +44,9 @@
 | Projeto                               | Descrição                                                                                                                                                                                                               
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **🏫 Portal Escolar SESI**         | Portal web adaptativo com múltiplos perfis de acesso (Aluno, Docente, Admin), calendário interativo e gestão de avisos.  
-| **🚀 Landing Page de Alta Conversão** | Página de vendas ultra-leve em HTML, CSS e JS puro com integração direta ao WhatsApp.                                     
+| **🚀 Landing Page de Alta Conversão** | Página de vendas ultra-leve em HTML, CSS e JS puro com integração direta ao WhatsApp. 
+| **🌿 EnerFlux** | Calculadora interativa em JS Vanilla para estimativa e cálculo de geração de energia renovável a partir de biomassa.
                                                                                      
-
----
-
-## 📊 Estatísticas do GitHub
-
----
 
 ## 📫 Vamos Conversar?
 
