@@ -15,15 +15,27 @@
 
 ### **Front-End &amp; Base Web**
 
-\--Image of: --HTML5 --Image of: --CSS3 --Image of: --JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
 
 ### **Vibe Coding &amp; IA**
 
-\--Image of: --Claude --Image of: --ChatGPT --Image of: --Vibe Coding
+![Claude](https://img.shields.io/badge/Claude\_Code-D97706?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS\_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&amp;logo=replit&amp;logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe\_Coding-8A2BE2?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
 
 ### **Deploy &amp; Infraestrutura**
 
-\--Image of: --Git --Image of: --GitHub --Image of: --Vercel --Image of: --Netlify --Image of: --Supabase
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white)
+[Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white)
 
 ---
 
