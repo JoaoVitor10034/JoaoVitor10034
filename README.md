@@ -52,7 +52,7 @@
 
 Gostou do meu trabalho ou quer tirar um projeto do papel com velocidade e alta performance? Entre em contato:
 
-* 💬 **WhatsApp:** [Envie Mensagem](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwa.me%2F55DDDSEUNUMERO)]
+* 💬 **WhatsApp:** [Envie Mensagem](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwa.me%2F55DDDSEUNUMERO)
 * ✉️ **E-mail:** [João Vitor](mailto:machadojoaovitor.2010@gmail.com)
 
 ---
