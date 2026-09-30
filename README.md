@@ -52,7 +52,7 @@
 
 Gostou do meu trabalho ou quer tirar um projeto do papel com velocidade e alta performance? Entre em contato:
 
-* 💬 **WhatsApp:** [Envie Mensagem](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwa.me%2F55DDDSEUNUMERO)
+* 💬 **WhatsApp:** [Envie Mensagem]((https://wa.me/555192884473?text=Ol%C3%A1%20Jo%C3%A3o%20Vitor,%20vi%20seu%20GitHub!))
 * ✉️ **E-mail:** [João Vitor](mailto:machadojoaovitor.2010@gmail.com)
 
 ---
